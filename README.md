@@ -7,3 +7,6 @@ observations in Hawaii over a seven year period starting with January 2010.
 
 The exploration and analysis include several queries and plots centered around precipitation and
 temperatures observed over a period of time.  I use Flask to publish my findings on my localhost.
+
+My thanks to Professor Carl Arrington and Teaching Assistant Daniel Doyle for their help on this 
+challenge.
